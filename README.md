@@ -6,7 +6,7 @@ Guía interactiva, en un único archivo HTML, para acompañar a estudiantes desd
 
 1. Abre [`index.html`](index.html) en un navegador.
 2. Marca una temática y señales que quieres investigar. La guía propone un planteamiento del problema editable y pide comprobar estas hipótesis con fuentes. Si aún no identificas ninguna señal, marca la opción de exploración para que el primer chat te ayude a encontrarla.
-3. Marca el sector, contexto, ubicación, personas afectadas, horizonte, propósito, resultados y fuentes. Los años se completan automáticamente; escribir nombres o detalles es opcional salvo que elijas una categoría «Otro».
+3. Marca el sector y las personas afectadas; elige el tipo de contexto, área o proceso, alcance, país, departamento y ciudad mediante listas desplegables. El contexto, la ubicación y las personas están en bloques que se pueden abrir y cerrar. Después selecciona horizonte, propósito, resultados y fuentes. Los años se completan automáticamente; escribir nombres o detalles es opcional salvo que elijas una categoría «Otro».
 4. Descarga el superprompt personalizado (`.txt`) o el kit completo de instrucciones (`.md`).
 5. Conserva el primer chat: desde allí prepara las búsquedas y al final contrasta todos los PDF.
 
